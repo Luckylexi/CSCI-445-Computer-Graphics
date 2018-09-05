@@ -1,0 +1,18 @@
+.description {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding: 5px;
+  height:120px;
+  width: 130px;
+  z-index: 10;
+  background-color: rgba(200, 247, 234, 0.7) ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.text{
+  color: #ffffff;
+}
